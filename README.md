@@ -2,4 +2,4 @@
 This repository contains helper files to follow the tutorial
 
 - 1. Download Zip files According to the video that you follow
-- 2. Download AdminLTE Tempalte from https://github.com/ColorlibHQ/AdminLTE
+- 2. Download AdminLTE Template from https://github.com/ColorlibHQ/AdminLTE
