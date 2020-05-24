@@ -2,4 +2,4 @@
 This repository contains helper files to follow the tutorial
 
 - 1. Download demo.sql and import it in your database
-- 2. Download AdminLTE from https://github.com/ColorlibHQ/AdminLTE
+- 2. Download AdminLTE Tempalte from https://github.com/ColorlibHQ/AdminLTE
